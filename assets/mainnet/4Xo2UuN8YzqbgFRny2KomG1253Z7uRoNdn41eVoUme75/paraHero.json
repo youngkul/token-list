@@ -1,1 +1,10 @@
+{
+  "name": "ParaHero",
+  "symbol": "PHERO",
+  "decimals": 9,
+  "address": "4Xo2UuN8YzqbgFRny2KomG1253Z7uRoNdn41eVoUme75",
+  "chainId": 101,
+  "logoURI": "https://raw.githubusercontent.com/youngkul/ParaHero/main/PHERO.png",
+  "tags": ["charity", "sports", "disability"]
+}
 
